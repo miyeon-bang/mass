@@ -2,7 +2,7 @@ streamlit
 rdkit-pypi
 stmol
 streamlit-ketcher
-numpy
+numpy==1.24.4
 pandas
 matplotlib
 ipython_genutils
