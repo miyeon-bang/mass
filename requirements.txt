@@ -5,3 +5,4 @@ streamlit-ketcher
 numpy
 pandas
 matplotlib
+ipython_genutils
